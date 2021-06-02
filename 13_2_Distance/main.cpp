@@ -23,7 +23,7 @@ int main() {
    last = 0;
    car.goStraight(200);
    while(steps*6.5*3.14/32 < 30) {
-      // printf("encoder = %d\r\n", steps); 
+      printf("encoder = %d\r\n", steps); 
       ThisThread::sleep_for(100ms);
    }
    car.stop();
