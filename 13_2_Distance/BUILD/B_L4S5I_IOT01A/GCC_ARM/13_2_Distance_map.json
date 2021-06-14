@@ -16,7 +16,7 @@
             ".text": 1796,
             ".data": 0,
             ".bss": 1628,
-            ".text-delta": 12,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -27,7 +27,7 @@
             ".text": 160,
             ".data": 6,
             ".bss": 37,
-            ".text-delta": 12,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -38,7 +38,7 @@
             ".text": 35380,
             ".data": 2474,
             ".bss": 89,
-            ".text-delta": 40,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -70,7 +70,7 @@
             "static_ram": 12712,
             "static_ram_delta": 0,
             "total_flash": 76936,
-            "total_flash_delta": 64
+            "total_flash_delta": 0
         }
     }
 ]
